@@ -1,0 +1,192 @@
+EVIDENCIAS DE 10 CONVERSACIONES DEL CHATBOT
+Servicios Escolares
+Fecha: 2026-10-26 05:00:06
+=================================================================
+
+CONVERSACIÓN 1: Constancia de estudios
+-----------------------------------------------------------------
+Alumno: Hola
+Chatbot: ¡Hola! Soy el asistente de Servicios Escolares de Tecmilenio Campus Cancún. ¿En qué puedo ayudarte?
+Verificación del turno: CORRECTO
+Alumno: Necesito una constancia de estudios
+Chatbot: Puedo orientarte sobre el trámite de constancias de estudios.
+Infografía: Diapositiva1.png
+Verificación del turno: CORRECTO
+Alumno: Gracias
+Chatbot: ¡Gracias por comunicarte con Servicios Escolares!
+Verificación del turno: CORRECTO
+Alumno: salir
+Chatbot: ¡Hasta pronto!
+Verificación del turno: CORRECTO
+Resultado de verificación: CORRECTO (4/4 turnos)
+
+CONVERSACIÓN 2: Certificado parcial
+-----------------------------------------------------------------
+Alumno: Buenos días
+Chatbot: ¡Hola! Soy el asistente de Servicios Escolares de Tecmilenio Campus Cancún. ¿En qué puedo ayudarte?
+Verificación del turno: CORRECTO
+Alumno: Quiero un certificado parcial
+Chatbot: Has seleccionado el trámite de certificado parcial. Puedo proporcionarte información sobre sus requisitos, costo y tiempo de emisión.
+Infografía: Diapositiva2.png
+Verificación del turno: CORRECTO
+Alumno: Gracias
+Chatbot: ¡Gracias por comunicarte con Servicios Escolares!
+Verificación del turno: CORRECTO
+Alumno: salir
+Chatbot: ¡Hasta pronto!
+Verificación del turno: CORRECTO
+Resultado de verificación: CORRECTO (4/4 turnos)
+
+CONVERSACIÓN 3: Duplicado de certificado
+-----------------------------------------------------------------
+Alumno: Hola
+Chatbot: ¡Hola! Soy el asistente de Servicios Escolares de Tecmilenio Campus Cancún. ¿En qué puedo ayudarte?
+Verificación del turno: CORRECTO
+Alumno: Necesito duplicado de certificado
+Chatbot: Has seleccionado el trámite de duplicado de certificado total. Puedo proporcionarte información sobre sus requisitos, costo y tiempo de emisión.
+Infografía: Diapositiva3.png
+Verificación del turno: CORRECTO
+Alumno: Gracias
+Chatbot: ¡Gracias por comunicarte con Servicios Escolares!
+Verificación del turno: CORRECTO
+Alumno: salir
+Chatbot: ¡Hasta pronto!
+Verificación del turno: CORRECTO
+Resultado de verificación: CORRECTO (4/4 turnos)
+
+CONVERSACIÓN 4: Certificado ambiguo
+-----------------------------------------------------------------
+Alumno: Hola
+Chatbot: ¡Hola! Soy el asistente de Servicios Escolares de Tecmilenio Campus Cancún. ¿En qué puedo ayudarte?
+Verificación del turno: CORRECTO
+Alumno: Necesito mi certificado
+Chatbot: ¿Qué tipo de certificado necesitas? 1. Certificado parcial. 2. Duplicado de certificado total. 3. Certificado de terminación.
+Verificación del turno: CORRECTO
+Alumno: 1
+Chatbot: Has seleccionado el trámite de certificado parcial. Puedo proporcionarte información sobre sus requisitos, costo y tiempo de emisión.
+Infografía: Diapositiva2.png
+Verificación del turno: CORRECTO
+Alumno: Gracias
+Chatbot: ¡Gracias por comunicarte con Servicios Escolares!
+Verificación del turno: CORRECTO
+Alumno: salir
+Chatbot: ¡Hasta pronto!
+Verificación del turno: CORRECTO
+Resultado de verificación: CORRECTO (5/5 turnos)
+
+CONVERSACIÓN 5: Historial académico y transcript
+-----------------------------------------------------------------
+Alumno: Hola
+Chatbot: ¡Hola! Soy el asistente de Servicios Escolares de Tecmilenio Campus Cancún. ¿En qué puedo ayudarte?
+Verificación del turno: CORRECTO
+Alumno: Necesito mi historial académico
+Chatbot: Aquí tienes la información para solicitar tu historial académico:
+Infografía: Diapositiva5.png
+Verificación del turno: CORRECTO
+Alumno: También quiero un transcript
+Chatbot: Aquí tienes la información para solicitar tu transcript:
+Infografía: Diapositiva6.png
+Verificación del turno: CORRECTO
+Alumno: Gracias
+Chatbot: ¡Gracias por comunicarte con Servicios Escolares!
+Verificación del turno: CORRECTO
+Alumno: salir
+Chatbot: ¡Hasta pronto!
+Verificación del turno: CORRECTO
+Resultado de verificación: CORRECTO (5/5 turnos)
+
+CONVERSACIÓN 6: Apostilla
+-----------------------------------------------------------------
+Alumno: Hola
+Chatbot: ¡Hola! Soy el asistente de Servicios Escolares de Tecmilenio Campus Cancún. ¿En qué puedo ayudarte?
+Verificación del turno: CORRECTO
+Alumno: Quiero apostillar mi certificado
+Chatbot: Aquí tienes la información del trámite de apostilla:
+Infografía: Diapositiva8.png
+Verificación del turno: CORRECTO
+Alumno: Gracias
+Chatbot: ¡Gracias por comunicarte con Servicios Escolares!
+Verificación del turno: CORRECTO
+Alumno: salir
+Chatbot: ¡Hasta pronto!
+Verificación del turno: CORRECTO
+Resultado de verificación: CORRECTO (4/4 turnos)
+
+CONVERSACIÓN 7: Constancia de autenticidad
+-----------------------------------------------------------------
+Alumno: Buenos días
+Chatbot: ¡Hola! Soy el asistente de Servicios Escolares de Tecmilenio Campus Cancún. ¿En qué puedo ayudarte?
+Verificación del turno: CORRECTO
+Alumno: Necesito una constancia de autenticidad
+Chatbot: Aquí tienes la información de la constancia de autenticidad:
+Infografía: Diapositiva7.png
+Verificación del turno: CORRECTO
+Alumno: Gracias
+Chatbot: ¡Gracias por comunicarte con Servicios Escolares!
+Verificación del turno: CORRECTO
+Alumno: salir
+Chatbot: ¡Hasta pronto!
+Verificación del turno: CORRECTO
+Resultado de verificación: CORRECTO (4/4 turnos)
+
+CONVERSACIÓN 8: Transferencia de campus
+-----------------------------------------------------------------
+Alumno: Hola
+Chatbot: ¡Hola! Soy el asistente de Servicios Escolares de Tecmilenio Campus Cancún. ¿En qué puedo ayudarte?
+Verificación del turno: CORRECTO
+Alumno: Quiero cambiar de campus
+Chatbot: Aquí tienes la información del trámite de transferencia:
+Infografía: Diapositiva9.png
+Verificación del turno: CORRECTO
+Alumno: Gracias
+Chatbot: ¡Gracias por comunicarte con Servicios Escolares!
+Verificación del turno: CORRECTO
+Alumno: salir
+Chatbot: ¡Hasta pronto!
+Verificación del turno: CORRECTO
+Resultado de verificación: CORRECTO (4/4 turnos)
+
+CONVERSACIÓN 9: Reposición de credencial y marbete
+-----------------------------------------------------------------
+Alumno: Hola
+Chatbot: ¡Hola! Soy el asistente de Servicios Escolares de Tecmilenio Campus Cancún. ¿En qué puedo ayudarte?
+Verificación del turno: CORRECTO
+Alumno: Necesito reponer mi credencial
+Chatbot: Aquí tienes la información para reponer tu credencial:
+Infografía: Diapositiva12.png
+Verificación del turno: CORRECTO
+Alumno: También necesito reponer marbete
+Chatbot: Aquí tienes la información para reponer tu marbete:
+Infografía: Diapositiva13.png
+Verificación del turno: CORRECTO
+Alumno: Gracias
+Chatbot: ¡Gracias por comunicarte con Servicios Escolares!
+Verificación del turno: CORRECTO
+Alumno: salir
+Chatbot: ¡Hasta pronto!
+Verificación del turno: CORRECTO
+Resultado de verificación: CORRECTO (5/5 turnos)
+
+CONVERSACIÓN 10: Consulta fuera de alcance
+-----------------------------------------------------------------
+Alumno: Hola
+Chatbot: ¡Hola! Soy el asistente de Servicios Escolares de Tecmilenio Campus Cancún. ¿En qué puedo ayudarte?
+Verificación del turno: CORRECTO
+Alumno: Necesito reservar un salón para una fiesta
+Chatbot: No comprendí tu consulta. Puedes preguntar sobre constancias, certificados o titulación.
+Verificación del turno: CORRECTO
+Alumno: Necesito una constancia
+Chatbot: Puedo orientarte sobre el trámite de constancias de estudios.
+Infografía: Diapositiva1.png
+Verificación del turno: CORRECTO
+Alumno: Gracias
+Chatbot: ¡Gracias por comunicarte con Servicios Escolares!
+Verificación del turno: CORRECTO
+Alumno: salir
+Chatbot: ¡Hasta pronto!
+Verificación del turno: CORRECTO
+Resultado de verificación: CORRECTO (5/5 turnos)
+
+=================================================================
+Conversaciones con todos los turnos correctos: 10/10
+Nota: se registran nombres de infografías, no se incrustan imágenes en el TXT.
